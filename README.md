@@ -1,7 +1,7 @@
 ### Hello World, eu sou a Dayane 👋
 </br>
 <img align="left" width="90" alt="day-icone" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_YducnK9J.png">
-<img align="right" alt="GIF" src="https://onervakorhonen.files.wordpress.com/2019/05/kissa2.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://onervakorhonen.files.wordpress.com/2019/05/kissa2.gif" width="350" height="250" />
 
   👩‍💻 Estou estudando para me tornar uma desenvolvedora front-end</br>
   ✨No momento estou estudando javascript</br></br>
