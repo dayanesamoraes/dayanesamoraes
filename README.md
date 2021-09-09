@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://onervakorhonen.files.wordpress.com/2019/05/kissa2.gif" width="350" height="250" />
 
   👩‍💻 Estou estudando para me tornar uma desenvolvedora front-end</br>
-  ✨No momento estou estudando javascript</br></br>
+  ✨No momento estou focando os estudos em javascript</br></br>
   ⚡ Fun fact: Nas minhas horas vagas eu gosto de jogar, no momento estou viciada em Mir 4 💎</br>
 ##  
 ### Languages and Tools:
